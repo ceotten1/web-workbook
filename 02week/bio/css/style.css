@@ -1,0 +1,30 @@
+<style>
+a:link {
+    color: blue;
+}
+a:visited {
+    color: blue;
+}
+a:hover {
+    color: purple;
+}
+#navbar {
+    font-size: 14;
+font-weight: bold;
+font-family: Helvetica;
+text-shadow: 1px 1px lightblue;
+}
+.header {
+    font-size: 20;
+    font-weight: bold;
+    font-family: Helvetica;
+    margin: 100px;
+    text-align: relative;
+}
+.biobackground {
+    border: 2px solid; width: 200px; height: 400px; color: purple;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    padding: 25px;
+    margin: 25px;
+    align: center;
+}
