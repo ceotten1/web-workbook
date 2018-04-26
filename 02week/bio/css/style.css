@@ -1,0 +1,66 @@
+body{
+    background-image: url(../img/Cori.jpg);
+    background-size: cover;
+    background-repeat: no-repeat; 
+    opacity: 40%;
+}
+
+header{
+    margin-left: 150px;
+    margin-top: 50px;
+}
+
+a:link{
+    color: darkblue;
+    text-decoration: none;
+}
+
+a:visited{
+    color: darkblue;
+    text-decoration: none;
+}
+
+a:active{
+    color: darkblue;
+    text-decoration: none;
+}
+
+a:hover{
+    color: white;    
+    text-decoration: underline;
+    }
+
+.name{
+        color: #fff;
+        font-size: 2em;
+        font-weight: bold;
+        font-family: sans-serif;
+        text-shadow: 0 1px 0 rgb(29, 16, 219), 0 2px 0 rgb(29, 16, 219), 0 3px 0 rgb(29, 16, 219), 0 4px 0 rgb(29, 16, 219), 0 5px 0 rgb(29, 16, 219), 0 6px 1px rgb(29, 16, 219), 0 0 5px rgb(29, 16, 219), 0 1px 3px rgb(29, 16, 219), 0 3px 5px rgb(29, 16, 219), 0 5px 10px rgb(29, 16, 219), 0 10px 10px rgba(0,0,0,.2), 0 20px 20px blue;
+        text-align: left;
+        margin-left: 250px;
+        margin-top: 100px;
+        line-height: .5em;
+        }
+
+.slogan{
+    color:#fff;
+    font-size: 1.5em;
+    text-align: left;
+    margin-left: 250px;
+}
+.biobox{
+    margin-left: 1000px;
+    background-color: ffffff;
+    border: 1px solid black;
+    border-radius: 15px;
+    opacity:0.6;
+    padding:10px;
+    width:400px;
+    height: 600px;
+}
+.biobox p {
+    margin: 5%;
+    font-weight: bold;
+    color: darkblue;
+    text-align: justify;
+}
