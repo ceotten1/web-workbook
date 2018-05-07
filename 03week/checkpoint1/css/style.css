@@ -1,0 +1,150 @@
+#header{
+    background-color: white;
+    width: 100%;
+    height: 50px;
+}
+
+#header h1{
+    text-align: left;
+    padding-left: 50px;
+    padding-top: 15px;
+    font-size: 16pt;
+    color: black;
+    font-family: 'Arial';
+}
+
+#menu {margin-top: -50px;}
+
+#menu li{
+    list-style-type: none;
+    float: right;
+    font-family: 'Arial';
+}
+
+#menu a{
+    text-decoration: none;
+    color: black;
+    display: block;
+    width: 100px;
+    margin-right: 2px;
+    margin-top: 12px;
+    font-family: 'Arial';
+    font-size: 10pt;
+}
+
+#menu a:hover{
+    color: gray;
+}
+
+#center{
+    float: left;
+    width: 100%;
+    background-color: lightgray;
+}
+
+#center h1{
+    text-align: center;
+    font-size: 24pt;
+    margin-left: 100px;
+    margin-right: 100px;
+    font-family: 'Arial';
+}
+
+#center p{
+    text-align: center;
+    font-size: 14pt;
+    margin-left: 100px;
+    margin-right: 100px;
+    font-family: 'Arial';
+}
+
+#bottom{
+    background-color: pink;
+    float: left;
+    width: 100%;
+    height: 100%;
+}
+
+#bottom h2{
+    text-align: center;
+    font-size: 12pt;
+    font-family: 'Arial';
+}
+
+#bottom p{
+    text-align: center;
+    font-size: 12pt;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.imgdesc1{
+    background-color:lightblue;
+    width: 25%;
+    height: 15%;
+    float: left;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    margin-left: 25px;
+    margin-right: auto;
+}
+
+.imgdesc1 h4{
+    padding-left: 10px;
+}
+
+.imgdesc1 p{
+    text-align: center;
+    float: right;
+}
+
+.imgdesc2{
+    background-color: lightblue;
+    width: 25%;
+    height: 15%;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    margin-right: 10%;
+    margin-left: 10%;
+    float: left;
+}
+
+.imgdesc2 h4{
+    padding-left: 10px;
+}
+
+.imgdesc2 p{
+    text-align: center;
+    float: right;
+}
+
+.imgdesc3{
+    background-color: lightblue;
+    width: 25%;
+    height: 15%;
+    float: left;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.imgdesc3 h4{
+    padding-left: 10px;
+}
+
+.imgdesc3 p{
+    text-align: center;
+    float: right;
+}
+
+#footer{
+    background-color: darkgray;
+    float: left;
+    width: 100%;
+    clear: both;
+}
+
+#footer p{
+    padding-left: 100px;
+}
