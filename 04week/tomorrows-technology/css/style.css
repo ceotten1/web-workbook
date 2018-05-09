@@ -1,0 +1,47 @@
+.main-container{
+    background-color: white;
+    border-top: 1px solid black;
+    border-right: 1px solid black;
+    padding: 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: stretch;
+    align-content: stretch;
+}
+
+img{ 
+    background-repeat: no-repeat;
+}
+
+.mainstory{
+    font-weight: bold;
+    max-width: 65%;
+    min-width: 20%;
+    text-align: justify;
+    font-size: 14pt;
+}
+
+button{
+  height: 30px;
+  width: 110px;
+  background-color: gray;
+  color: white;
+}
+
+aside{
+  padding-left: 60px;
+  text-align: justify;
+  font-size: 11pt;
+  font-weight: bold;
+}
+
+h2{
+  border-bottom: 1px solid black;
+  padding-bottom: 10px;
+}
+
+@media (min-width: 768px)
+
+
+
